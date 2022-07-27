@@ -1,2 +1,0 @@
-# rpa-recruitment
-face-test
